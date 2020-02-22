@@ -17,3 +17,7 @@ def cout():
 
 def cout():
     print("190186513")
+
+
+def cout():
+	print("wwy's registration:190186498")
